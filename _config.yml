@@ -106,5 +106,5 @@ theme_config:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/marceloaas/marceloaas
+  repo: https://github.com/marceloaas/marceloaas.github.io
   branch: gh-pages
