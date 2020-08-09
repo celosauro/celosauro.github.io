@@ -22,7 +22,7 @@ Modify `theme` setting in `_config.yml` to `landscape`.
 
 ``` bash
 cd themes/landscape
-git pull
+git pull  
 ```
 
 ## Configuration
