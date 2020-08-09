@@ -107,3 +107,4 @@ theme_config:
 deploy:
   type: git
   repo: https://github.com/marceloaas/marceloaas
+  branch: gh-pages
