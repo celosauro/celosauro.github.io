@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ''
+title: 'Marcelo de Andrade'
 subtitle: ''
-description: ''
-keywords:
+description: 'Programador aspirante a cozinheiro e aventureiro'
+keywords: blog, developer, programmer, programação, desenvolvimento
 author: Marcelo de Andrade
-language: pt-BR
+language: en
 timezone: 'America/Sao_Paulo'
 
 # URL
@@ -79,7 +79,7 @@ meta_generator: true
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: DD/MM/YYYY
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
 updated_option: 'mtime'
