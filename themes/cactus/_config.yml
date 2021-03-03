@@ -25,7 +25,7 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: https://github.com/marceloaas
+  # github: https://github.com/marceloaas
   # twitter: https://twitter.com/marcelo2andrade
   # facebook: /
   linkedin: https://www.linkedin.com/in/marcelodeandrade

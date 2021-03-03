@@ -5,17 +5,17 @@
 # Site
 title: 'Marcelo de Andrade'
 subtitle: ''
-description: 'Programador aspirante a cozinheiro e aventureiro'
-keywords: blog, developer, programmer, programação, desenvolvimento
+description: 'Programador, aspirante a aventureiro e nas horas vagas, cozinheiro.'
+keywords: blog, developer, programmer, programação, desenvolvimento, php, symfony
 author: Marcelo de Andrade
-language: en
+language: pt-br
 timezone: 'America/Sao_Paulo'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://marceloaas.github.io/
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :day/:month/:year/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -100,7 +100,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: cactus
 theme_config:
-  colorscheme: white
+  colorscheme: dark
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
